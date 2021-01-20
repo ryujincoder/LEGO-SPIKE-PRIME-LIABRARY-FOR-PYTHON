@@ -1,6 +1,6 @@
 # LEGO-SPIKE-PRIME-LIBRARY-FOR-PYTHON-MAC-Linux
 
-Hello, You have seen to find my Python Liabrary for Lego Spike Prime coding, Lego Does Not Endorse This Page. 
+Hello, You have seen to find my Python Liabrary for Lego Spike Prime coding, LEGO DOES NOT ENDORSE OR SPONSOR THIS PAGE. 
 This is a Open Source Library for spike prime python coding.
 Before we Get Coding and installing specific things we need to know what the Lego Spike Pime Hub is made out of.
 The hub is a micro python computer, This means Python Coding is simple and easy and we will not have to install python.

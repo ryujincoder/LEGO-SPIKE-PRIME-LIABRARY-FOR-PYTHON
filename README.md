@@ -21,3 +21,10 @@ Make sure bluetooth is on and make a new .py file in vs code.
 Open the terminal section and enter this
 
 ls /dev/tty* | grep Hub
+
+Then turn on the hub and copy the sencond to last line of code then type: screen        followed by the space key, and paste what we have previously copied then press ENTER and your hub should automatatically connect.
+
+
+The Latest Liabrary.zip is present as a release and contains .PY files witch is sample code meant for the models in the spike prime app.
+
+

@@ -14,4 +14,10 @@ If you get a terminal error saying "Could Not Find A PTY" Make sure the Spike Pr
 
 I will soon make a upcoming youtube channel where it will show how you can code you own robots made for Spike Prime. 
 
-This section will show you how to install 
+This section will show you how to connect our hub via bluetooth (IF YOUR COMPUTER CAN SUPPORT IT).
+
+Download VS CODE :https://code.visualstudio.com/download  Then install it
+Make sure bluetooth is on and make a new .py file in vs code.
+Open the terminal section and enter this
+
+ls /dev/tty* | grep Hub

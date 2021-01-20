@@ -32,6 +32,6 @@ We need to verify the code of the hub to do this type    import hub   then type
 from spike import App
 
 
-# Initialize the app
+Initialize the app
 app = App()
 

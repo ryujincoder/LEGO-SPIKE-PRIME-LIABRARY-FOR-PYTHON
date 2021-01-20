@@ -26,7 +26,7 @@ Then turn on the hub and copy the sencond to last line of code then type: screen
 
 
 The Latest Liabrary.zip is present as a release and contains .PY files witch is sample code meant for the models in the spike prime app.
-We need to verify the code of the hub to do this type    import hub   then type  
+We need to verify the code of the hub to do this type   import hub         then type  
 
 
 from spike import App
